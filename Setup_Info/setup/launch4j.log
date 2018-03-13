@@ -1,0 +1,919 @@
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	setup\lib\*.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe" com.takkaiah.poreader.ui.POReaderApp
+Args length:	137/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	setup\lib\*.jar
+Add classpath:	.
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe;." com.takkaiah.poreader.ui.POReaderApp
+Args length:	139/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	setup\lib\*.jar
+Add classpath:	.
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "setup\POReaderApp.jar;." com.takkaiah.poreader.ui.POReaderApp
+Args length:	73/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	setup\lib\*.jar
+Add classpath:	.
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "setup\POReaderApp.jar;." com.takkaiah.poreader.ui.POReaderApp
+Args length:	73/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+      "      :	lib\activation-1.1.jar
+      "      :	lib\antlr-2.7.7.jar
+      "      :	lib\avalon-framework-impl-4.2.0.jar
+      "      :	lib\barcode4j-2.0.jar
+      "      :	lib\batik-anim-1.8.jar
+      "      :	lib\batik-awt-util-1.8.jar
+      "      :	lib\batik-bridge-1.8.jar
+      "      :	lib\batik-css-1.8.jar
+      "      :	lib\batik-dom-1.8.jar
+      "      :	lib\batik-ext-1.8.jar
+      "      :	lib\batik-gvt-1.8.jar
+      "      :	lib\batik-parser-1.8.jar
+      "      :	lib\batik-script-1.8.jar
+      "      :	lib\batik-svg-dom-1.8.jar
+      "      :	lib\batik-util-1.8.jar
+      "      :	lib\batik-xml-1.8.jar
+      "      :	lib\bcmail-jdk14-1.38.jar
+      "      :	lib\bcmail-jdk14-138.jar
+      "      :	lib\bcprov-jdk14-1.38.jar
+      "      :	lib\bcprov-jdk14-138.jar
+      "      :	lib\bctsp-jdk14-1.38.jar
+      "      :	lib\classmate-1.3.0.jar
+      "      :	lib\commons-beanutils-1.9.0.jar
+      "      :	lib\commons-codec-1.10.jar
+      "      :	lib\commons-collections-3.2.2.jar
+      "      :	lib\commons-digester-2.1.jar
+      "      :	lib\commons-io-2.5.jar
+      "      :	lib\commons-lang3-3.1.jar
+      "      :	lib\commons-logging-1.2.jar
+      "      :	lib\core-2.3.0.jar
+      "      :	lib\dom4j-1.6.1.jar
+      "      :	lib\dynamicreports-core-4.1.1.jar
+      "      :	lib\ecj-4.3.1.jar
+      "      :	lib\fontbox-2.0.3.jar
+      "      :	lib\hibernate-commons-annotations-5.0.1.Final.jar
+      "      :	lib\hibernate-core-5.2.10.Final.jar
+      "      :	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+      "      :	lib\itext-2.1.7.jar
+      "      :	lib\jackson-annotations-2.1.4.jar
+      "      :	lib\jackson-core-2.1.4.jar
+      "      :	lib\jackson-databind-2.1.4.jar
+      "      :	lib\jandex-2.0.3.Final.jar
+      "      :	lib\jasperreports-6.2.2.jar
+      "      :	lib\javassist-3.20.0-GA.jar
+      "      :	lib\javax.mail-api-1.5.1.jar
+      "      :	lib\jboss-logging-3.3.0.Final.jar
+      "      :	lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+      "      :	lib\jcommon-1.0.23.jar
+      "      :	lib\jfontchooser-1.0.5.jar
+      "      :	lib\jfreechart-1.0.19.jar
+      "      :	lib\log4j-api-2.8.2.jar
+      "      :	lib\log4j-core-2.8.2.jar
+      "      :	lib\pdfbox-2.0.3.jar
+      "      :	lib\pdfbox-app-2.0.3.jar
+      "      :	lib\pdfbox-debugger-2.0.3.jar
+      "      :	lib\pdfbox-tools-2.0.3.jar
+      "      :	lib\poi-3.10.1.jar
+      "      :	lib\poi-ooxml-3.10.1.jar
+      "      :	lib\poi-ooxml-schemas-3.10.1.jar
+      "      :	lib\POReader.jar
+      "      :	lib\POReaderDB.jar
+      "      :	lib\POReaderUtil.jar
+      "      :	lib\postgresql-42.1.3.jar
+      "      :	lib\preflight-2.0.3.jar
+      "      :	lib\stax-api-1.0.1.jar
+      "      :	lib\xml-apis-1.3.04.jar
+      "      :	lib\xml-apis-ext-1.3.04.jar
+      "      :	lib\xmlbeans-2.6.0.jar
+      "      :	lib\xmpbox-2.0.3.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "setup\POReaderApp.jar;lib\activation-1.1.jar;lib\antlr-2.7.7.jar;lib\avalon-framework-impl-4.2.0.jar;lib\barcode4j-2.0.jar;lib\batik-anim-1.8.jar;lib\batik-awt-util-1.8.jar;lib\batik-bridge-1.8.jar;lib\batik-css-1.8.jar;lib\batik-dom-1.8.jar;lib\batik-ext-1.8.jar;lib\batik-gvt-1.8.jar;lib\batik-parser-1.8.jar;lib\batik-script-1.8.jar;lib\batik-svg-dom-1.8.jar;lib\batik-util-1.8.jar;lib\batik-xml-1.8.jar;lib\bcmail-jdk14-1.38.jar;lib\bcmail-jdk14-138.jar;lib\bcprov-jdk14-1.38.jar;lib\bcprov-jdk14-138.jar;lib\bctsp-jdk14-1.38.jar;lib\classmate-1.3.0.jar;lib\commons-beanutils-1.9.0.jar;lib\commons-codec-1.10.jar;lib\commons-collections-3.2.2.jar;lib\commons-digester-2.1.jar;lib\commons-io-2.5.jar;lib\commons-lang3-3.1.jar;lib\commons-logging-1.2.jar;lib\core-2.3.0.jar;lib\dom4j-1.6.1.jar;lib\dynamicreports-core-4.1.1.jar;lib\ecj-4.3.1.jar;lib\fontbox-2.0.3.jar;lib\hibernate-commons-annotations-5.0.1.Final.jar;lib\hibernate-core-5.2.10.Final.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\itext-2.1.7.jar;lib\jackson-annotations-2.1.4.jar;lib\jackson-core-2.1.4.jar;lib\jackson-databind-2.1.4.jar;lib\jandex-2.0.3.Final.jar;lib\jasperreports-6.2.2.jar;lib\javassist-3.20.0-GA.jar;lib\javax.mail-api-1.5.1.jar;lib\jboss-logging-3.3.0.Final.jar;lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;lib\jcommon-1.0.23.jar;lib\jfontchooser-1.0.5.jar;lib\jfreechart-1.0.19.jar;lib\log4j-api-2.8.2.jar;lib\log4j-core-2.8.2.jar;lib\pdfbox-2.0.3.jar;lib\pdfbox-app-2.0.3.jar;lib\pdfbox-debugger-2.0.3.jar;lib\pdfbox-tools-2.0.3.jar;lib\poi-3.10.1.jar;lib\poi-ooxml-3.10.1.jar;lib\poi-ooxml-schemas-3.10.1.jar;lib\POReader.jar;lib\POReaderDB.jar;lib\POReaderUtil.jar;lib\postgresql-42.1.3.jar;lib\preflight-2.0.3.jar;lib\stax-api-1.0.1.jar;lib\xml-apis-1.3.04.jar;lib\xml-apis-ext-1.3.04.jar;lib\xmlbeans-2.6.0.jar;lib\xmpbox-2.0.3.jar" com.takkaiah.poreader.ui.POReaderApp
+Args length:	1887/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+      "      :	lib\activation-1.1.jar
+      "      :	lib\antlr-2.7.7.jar
+      "      :	lib\avalon-framework-impl-4.2.0.jar
+      "      :	lib\barcode4j-2.0.jar
+      "      :	lib\batik-anim-1.8.jar
+      "      :	lib\batik-awt-util-1.8.jar
+      "      :	lib\batik-bridge-1.8.jar
+      "      :	lib\batik-css-1.8.jar
+      "      :	lib\batik-dom-1.8.jar
+      "      :	lib\batik-ext-1.8.jar
+      "      :	lib\batik-gvt-1.8.jar
+      "      :	lib\batik-parser-1.8.jar
+      "      :	lib\batik-script-1.8.jar
+      "      :	lib\batik-svg-dom-1.8.jar
+      "      :	lib\batik-util-1.8.jar
+      "      :	lib\batik-xml-1.8.jar
+      "      :	lib\bcmail-jdk14-1.38.jar
+      "      :	lib\bcmail-jdk14-138.jar
+      "      :	lib\bcprov-jdk14-1.38.jar
+      "      :	lib\bcprov-jdk14-138.jar
+      "      :	lib\bctsp-jdk14-1.38.jar
+      "      :	lib\classmate-1.3.0.jar
+      "      :	lib\commons-beanutils-1.9.0.jar
+      "      :	lib\commons-codec-1.10.jar
+      "      :	lib\commons-collections-3.2.2.jar
+      "      :	lib\commons-digester-2.1.jar
+      "      :	lib\commons-io-2.5.jar
+      "      :	lib\commons-lang3-3.1.jar
+      "      :	lib\commons-logging-1.2.jar
+      "      :	lib\core-2.3.0.jar
+      "      :	lib\dom4j-1.6.1.jar
+      "      :	lib\dynamicreports-core-4.1.1.jar
+      "      :	lib\ecj-4.3.1.jar
+      "      :	lib\fontbox-2.0.3.jar
+      "      :	lib\hibernate-commons-annotations-5.0.1.Final.jar
+      "      :	lib\hibernate-core-5.2.10.Final.jar
+      "      :	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+      "      :	lib\itext-2.1.7.jar
+      "      :	lib\jackson-annotations-2.1.4.jar
+      "      :	lib\jackson-core-2.1.4.jar
+      "      :	lib\jackson-databind-2.1.4.jar
+      "      :	lib\jandex-2.0.3.Final.jar
+      "      :	lib\jasperreports-6.2.2.jar
+      "      :	lib\javassist-3.20.0-GA.jar
+      "      :	lib\javax.mail-api-1.5.1.jar
+      "      :	lib\jboss-logging-3.3.0.Final.jar
+      "      :	lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+      "      :	lib\jcommon-1.0.23.jar
+      "      :	lib\jfontchooser-1.0.5.jar
+      "      :	lib\jfreechart-1.0.19.jar
+      "      :	lib\log4j-api-2.8.2.jar
+      "      :	lib\log4j-core-2.8.2.jar
+      "      :	lib\pdfbox-2.0.3.jar
+      "      :	lib\pdfbox-app-2.0.3.jar
+      "      :	lib\pdfbox-debugger-2.0.3.jar
+      "      :	lib\pdfbox-tools-2.0.3.jar
+      "      :	lib\poi-3.10.1.jar
+      "      :	lib\poi-ooxml-3.10.1.jar
+      "      :	lib\poi-ooxml-schemas-3.10.1.jar
+      "      :	lib\POReader.jar
+      "      :	lib\POReaderDB.jar
+      "      :	lib\POReaderUtil.jar
+      "      :	lib\postgresql-42.1.3.jar
+      "      :	lib\preflight-2.0.3.jar
+      "      :	lib\stax-api-1.0.1.jar
+      "      :	lib\xml-apis-1.3.04.jar
+      "      :	lib\xml-apis-ext-1.3.04.jar
+      "      :	lib\xmlbeans-2.6.0.jar
+      "      :	lib\xmpbox-2.0.3.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "setup\POReaderApp.jar;lib\activation-1.1.jar;lib\antlr-2.7.7.jar;lib\avalon-framework-impl-4.2.0.jar;lib\barcode4j-2.0.jar;lib\batik-anim-1.8.jar;lib\batik-awt-util-1.8.jar;lib\batik-bridge-1.8.jar;lib\batik-css-1.8.jar;lib\batik-dom-1.8.jar;lib\batik-ext-1.8.jar;lib\batik-gvt-1.8.jar;lib\batik-parser-1.8.jar;lib\batik-script-1.8.jar;lib\batik-svg-dom-1.8.jar;lib\batik-util-1.8.jar;lib\batik-xml-1.8.jar;lib\bcmail-jdk14-1.38.jar;lib\bcmail-jdk14-138.jar;lib\bcprov-jdk14-1.38.jar;lib\bcprov-jdk14-138.jar;lib\bctsp-jdk14-1.38.jar;lib\classmate-1.3.0.jar;lib\commons-beanutils-1.9.0.jar;lib\commons-codec-1.10.jar;lib\commons-collections-3.2.2.jar;lib\commons-digester-2.1.jar;lib\commons-io-2.5.jar;lib\commons-lang3-3.1.jar;lib\commons-logging-1.2.jar;lib\core-2.3.0.jar;lib\dom4j-1.6.1.jar;lib\dynamicreports-core-4.1.1.jar;lib\ecj-4.3.1.jar;lib\fontbox-2.0.3.jar;lib\hibernate-commons-annotations-5.0.1.Final.jar;lib\hibernate-core-5.2.10.Final.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\itext-2.1.7.jar;lib\jackson-annotations-2.1.4.jar;lib\jackson-core-2.1.4.jar;lib\jackson-databind-2.1.4.jar;lib\jandex-2.0.3.Final.jar;lib\jasperreports-6.2.2.jar;lib\javassist-3.20.0-GA.jar;lib\javax.mail-api-1.5.1.jar;lib\jboss-logging-3.3.0.Final.jar;lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;lib\jcommon-1.0.23.jar;lib\jfontchooser-1.0.5.jar;lib\jfreechart-1.0.19.jar;lib\log4j-api-2.8.2.jar;lib\log4j-core-2.8.2.jar;lib\pdfbox-2.0.3.jar;lib\pdfbox-app-2.0.3.jar;lib\pdfbox-debugger-2.0.3.jar;lib\pdfbox-tools-2.0.3.jar;lib\poi-3.10.1.jar;lib\poi-ooxml-3.10.1.jar;lib\poi-ooxml-schemas-3.10.1.jar;lib\POReader.jar;lib\POReaderDB.jar;lib\POReaderUtil.jar;lib\postgresql-42.1.3.jar;lib\preflight-2.0.3.jar;lib\stax-api-1.0.1.jar;lib\xml-apis-1.3.04.jar;lib\xml-apis-ext-1.3.04.jar;lib\xmlbeans-2.6.0.jar;lib\xmpbox-2.0.3.jar" com.takkaiah.poreader.ui.POReaderApp
+Args length:	1887/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+Bundled JRE:	C:\Program Files\Java\jdk1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\bin\javaw.exe (OK)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+      "      :	lib\activation-1.1.jar
+      "      :	lib\antlr-2.7.7.jar
+      "      :	lib\avalon-framework-impl-4.2.0.jar
+      "      :	lib\barcode4j-2.0.jar
+      "      :	lib\batik-anim-1.8.jar
+      "      :	lib\batik-awt-util-1.8.jar
+      "      :	lib\batik-bridge-1.8.jar
+      "      :	lib\batik-css-1.8.jar
+      "      :	lib\batik-dom-1.8.jar
+      "      :	lib\batik-ext-1.8.jar
+      "      :	lib\batik-gvt-1.8.jar
+      "      :	lib\batik-parser-1.8.jar
+      "      :	lib\batik-script-1.8.jar
+      "      :	lib\batik-svg-dom-1.8.jar
+      "      :	lib\batik-util-1.8.jar
+      "      :	lib\batik-xml-1.8.jar
+      "      :	lib\bcmail-jdk14-1.38.jar
+      "      :	lib\bcmail-jdk14-138.jar
+      "      :	lib\bcprov-jdk14-1.38.jar
+      "      :	lib\bcprov-jdk14-138.jar
+      "      :	lib\bctsp-jdk14-1.38.jar
+      "      :	lib\classmate-1.3.0.jar
+      "      :	lib\commons-beanutils-1.9.0.jar
+      "      :	lib\commons-codec-1.10.jar
+      "      :	lib\commons-collections-3.2.2.jar
+      "      :	lib\commons-digester-2.1.jar
+      "      :	lib\commons-io-2.5.jar
+      "      :	lib\commons-lang3-3.1.jar
+      "      :	lib\commons-logging-1.2.jar
+      "      :	lib\core-2.3.0.jar
+      "      :	lib\dom4j-1.6.1.jar
+      "      :	lib\dynamicreports-core-4.1.1.jar
+      "      :	lib\ecj-4.3.1.jar
+      "      :	lib\fontbox-2.0.3.jar
+      "      :	lib\hibernate-commons-annotations-5.0.1.Final.jar
+      "      :	lib\hibernate-core-5.2.10.Final.jar
+      "      :	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+      "      :	lib\itext-2.1.7.jar
+      "      :	lib\jackson-annotations-2.1.4.jar
+      "      :	lib\jackson-core-2.1.4.jar
+      "      :	lib\jackson-databind-2.1.4.jar
+      "      :	lib\jandex-2.0.3.Final.jar
+      "      :	lib\jasperreports-6.2.2.jar
+      "      :	lib\javassist-3.20.0-GA.jar
+      "      :	lib\javax.mail-api-1.5.1.jar
+      "      :	lib\jboss-logging-3.3.0.Final.jar
+      "      :	lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+      "      :	lib\jcommon-1.0.23.jar
+      "      :	lib\jfontchooser-1.0.5.jar
+      "      :	lib\jfreechart-1.0.19.jar
+      "      :	lib\log4j-api-2.8.2.jar
+      "      :	lib\log4j-core-2.8.2.jar
+      "      :	lib\pdfbox-2.0.3.jar
+      "      :	lib\pdfbox-app-2.0.3.jar
+      "      :	lib\pdfbox-debugger-2.0.3.jar
+      "      :	lib\pdfbox-tools-2.0.3.jar
+      "      :	lib\poi-3.10.1.jar
+      "      :	lib\poi-ooxml-3.10.1.jar
+      "      :	lib\poi-ooxml-schemas-3.10.1.jar
+      "      :	lib\POReader.jar
+      "      :	lib\POReaderDB.jar
+      "      :	lib\POReaderUtil.jar
+      "      :	lib\postgresql-42.1.3.jar
+      "      :	lib\preflight-2.0.3.jar
+      "      :	lib\stax-api-1.0.1.jar
+      "      :	lib\xml-apis-1.3.04.jar
+      "      :	lib\xml-apis-ext-1.3.04.jar
+      "      :	lib\xmlbeans-2.6.0.jar
+      "      :	lib\xmpbox-2.0.3.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\bin\javaw.exe
+Launcher args:	-classpath "setup\POReaderApp.jar;lib\activation-1.1.jar;lib\antlr-2.7.7.jar;lib\avalon-framework-impl-4.2.0.jar;lib\barcode4j-2.0.jar;lib\batik-anim-1.8.jar;lib\batik-awt-util-1.8.jar;lib\batik-bridge-1.8.jar;lib\batik-css-1.8.jar;lib\batik-dom-1.8.jar;lib\batik-ext-1.8.jar;lib\batik-gvt-1.8.jar;lib\batik-parser-1.8.jar;lib\batik-script-1.8.jar;lib\batik-svg-dom-1.8.jar;lib\batik-util-1.8.jar;lib\batik-xml-1.8.jar;lib\bcmail-jdk14-1.38.jar;lib\bcmail-jdk14-138.jar;lib\bcprov-jdk14-1.38.jar;lib\bcprov-jdk14-138.jar;lib\bctsp-jdk14-1.38.jar;lib\classmate-1.3.0.jar;lib\commons-beanutils-1.9.0.jar;lib\commons-codec-1.10.jar;lib\commons-collections-3.2.2.jar;lib\commons-digester-2.1.jar;lib\commons-io-2.5.jar;lib\commons-lang3-3.1.jar;lib\commons-logging-1.2.jar;lib\core-2.3.0.jar;lib\dom4j-1.6.1.jar;lib\dynamicreports-core-4.1.1.jar;lib\ecj-4.3.1.jar;lib\fontbox-2.0.3.jar;lib\hibernate-commons-annotations-5.0.1.Final.jar;lib\hibernate-core-5.2.10.Final.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\itext-2.1.7.jar;lib\jackson-annotations-2.1.4.jar;lib\jackson-core-2.1.4.jar;lib\jackson-databind-2.1.4.jar;lib\jandex-2.0.3.Final.jar;lib\jasperreports-6.2.2.jar;lib\javassist-3.20.0-GA.jar;lib\javax.mail-api-1.5.1.jar;lib\jboss-logging-3.3.0.Final.jar;lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;lib\jcommon-1.0.23.jar;lib\jfontchooser-1.0.5.jar;lib\jfreechart-1.0.19.jar;lib\log4j-api-2.8.2.jar;lib\log4j-core-2.8.2.jar;lib\pdfbox-2.0.3.jar;lib\pdfbox-app-2.0.3.jar;lib\pdfbox-debugger-2.0.3.jar;lib\pdfbox-tools-2.0.3.jar;lib\poi-3.10.1.jar;lib\poi-ooxml-3.10.1.jar;lib\poi-ooxml-schemas-3.10.1.jar;lib\POReader.jar;lib\POReaderDB.jar;lib\POReaderUtil.jar;lib\postgresql-42.1.3.jar;lib\preflight-2.0.3.jar;lib\stax-api-1.0.1.jar;lib\xml-apis-1.3.04.jar;lib\xml-apis-ext-1.3.04.jar;lib\xmlbeans-2.6.0.jar;lib\xmpbox-2.0.3.jar" com.takkaiah.poreader.ui.POReaderApp
+Args length:	1887/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+      "      :	lib\activation-1.1.jar
+      "      :	lib\antlr-2.7.7.jar
+      "      :	lib\avalon-framework-impl-4.2.0.jar
+      "      :	lib\barcode4j-2.0.jar
+      "      :	lib\batik-anim-1.8.jar
+      "      :	lib\batik-awt-util-1.8.jar
+      "      :	lib\batik-bridge-1.8.jar
+      "      :	lib\batik-css-1.8.jar
+      "      :	lib\batik-dom-1.8.jar
+      "      :	lib\batik-ext-1.8.jar
+      "      :	lib\batik-gvt-1.8.jar
+      "      :	lib\batik-parser-1.8.jar
+      "      :	lib\batik-script-1.8.jar
+      "      :	lib\batik-svg-dom-1.8.jar
+      "      :	lib\batik-util-1.8.jar
+      "      :	lib\batik-xml-1.8.jar
+      "      :	lib\bcmail-jdk14-1.38.jar
+      "      :	lib\bcmail-jdk14-138.jar
+      "      :	lib\bcprov-jdk14-1.38.jar
+      "      :	lib\bcprov-jdk14-138.jar
+      "      :	lib\bctsp-jdk14-1.38.jar
+      "      :	lib\classmate-1.3.0.jar
+      "      :	lib\commons-beanutils-1.9.0.jar
+      "      :	lib\commons-codec-1.10.jar
+      "      :	lib\commons-collections-3.2.2.jar
+      "      :	lib\commons-digester-2.1.jar
+      "      :	lib\commons-io-2.5.jar
+      "      :	lib\commons-lang3-3.1.jar
+      "      :	lib\commons-logging-1.2.jar
+      "      :	lib\core-2.3.0.jar
+      "      :	lib\dom4j-1.6.1.jar
+      "      :	lib\dynamicreports-core-4.1.1.jar
+      "      :	lib\ecj-4.3.1.jar
+      "      :	lib\fontbox-2.0.3.jar
+      "      :	lib\hibernate-commons-annotations-5.0.1.Final.jar
+      "      :	lib\hibernate-core-5.2.10.Final.jar
+      "      :	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+      "      :	lib\itext-2.1.7.jar
+      "      :	lib\jackson-annotations-2.1.4.jar
+      "      :	lib\jackson-core-2.1.4.jar
+      "      :	lib\jackson-databind-2.1.4.jar
+      "      :	lib\jandex-2.0.3.Final.jar
+      "      :	lib\jasperreports-6.2.2.jar
+      "      :	lib\javassist-3.20.0-GA.jar
+      "      :	lib\javax.mail-api-1.5.1.jar
+      "      :	lib\jboss-logging-3.3.0.Final.jar
+      "      :	lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+      "      :	lib\jcommon-1.0.23.jar
+      "      :	lib\jfontchooser-1.0.5.jar
+      "      :	lib\jfreechart-1.0.19.jar
+      "      :	lib\log4j-api-2.8.2.jar
+      "      :	lib\log4j-core-2.8.2.jar
+      "      :	lib\pdfbox-2.0.3.jar
+      "      :	lib\pdfbox-app-2.0.3.jar
+      "      :	lib\pdfbox-debugger-2.0.3.jar
+      "      :	lib\pdfbox-tools-2.0.3.jar
+      "      :	lib\poi-3.10.1.jar
+      "      :	lib\poi-ooxml-3.10.1.jar
+      "      :	lib\poi-ooxml-schemas-3.10.1.jar
+      "      :	lib\POReader.jar
+      "      :	lib\POReaderDB.jar
+      "      :	lib\POReaderUtil.jar
+      "      :	lib\postgresql-42.1.3.jar
+      "      :	lib\preflight-2.0.3.jar
+      "      :	lib\stax-api-1.0.1.jar
+      "      :	lib\xml-apis-1.3.04.jar
+      "      :	lib\xml-apis-ext-1.3.04.jar
+      "      :	lib\xmlbeans-2.6.0.jar
+      "      :	lib\xmpbox-2.0.3.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe;lib\activation-1.1.jar;lib\antlr-2.7.7.jar;lib\avalon-framework-impl-4.2.0.jar;lib\barcode4j-2.0.jar;lib\batik-anim-1.8.jar;lib\batik-awt-util-1.8.jar;lib\batik-bridge-1.8.jar;lib\batik-css-1.8.jar;lib\batik-dom-1.8.jar;lib\batik-ext-1.8.jar;lib\batik-gvt-1.8.jar;lib\batik-parser-1.8.jar;lib\batik-script-1.8.jar;lib\batik-svg-dom-1.8.jar;lib\batik-util-1.8.jar;lib\batik-xml-1.8.jar;lib\bcmail-jdk14-1.38.jar;lib\bcmail-jdk14-138.jar;lib\bcprov-jdk14-1.38.jar;lib\bcprov-jdk14-138.jar;lib\bctsp-jdk14-1.38.jar;lib\classmate-1.3.0.jar;lib\commons-beanutils-1.9.0.jar;lib\commons-codec-1.10.jar;lib\commons-collections-3.2.2.jar;lib\commons-digester-2.1.jar;lib\commons-io-2.5.jar;lib\commons-lang3-3.1.jar;lib\commons-logging-1.2.jar;lib\core-2.3.0.jar;lib\dom4j-1.6.1.jar;lib\dynamicreports-core-4.1.1.jar;lib\ecj-4.3.1.jar;lib\fontbox-2.0.3.jar;lib\hibernate-commons-annotations-5.0.1.Final.jar;lib\hibernate-core-5.2.10.Final.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\itext-2.1.7.jar;lib\jackson-annotations-2.1.4.jar;lib\jackson-core-2.1.4.jar;lib\jackson-databind-2.1.4.jar;lib\jandex-2.0.3.Final.jar;lib\jasperreports-6.2.2.jar;lib\javassist-3.20.0-GA.jar;lib\javax.mail-api-1.5.1.jar;lib\jboss-logging-3.3.0.Final.jar;lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;lib\jcommon-1.0.23.jar;lib\jfontchooser-1.0.5.jar;lib\jfreechart-1.0.19.jar;lib\log4j-api-2.8.2.jar;lib\log4j-core-2.8.2.jar;lib\pdfbox-2.0.3.jar;lib\pdfbox-app-2.0.3.jar;lib\pdfbox-debugger-2.0.3.jar;lib\pdfbox-tools-2.0.3.jar;lib\poi-3.10.1.jar;lib\poi-ooxml-3.10.1.jar;lib\poi-ooxml-schemas-3.10.1.jar;lib\POReader.jar;lib\POReaderDB.jar;lib\POReaderUtil.jar;lib\postgresql-42.1.3.jar;lib\preflight-2.0.3.jar;lib\stax-api-1.0.1.jar;lib\xml-apis-1.3.04.jar;lib\xml-apis-ext-1.3.04.jar;lib\xmlbeans-2.6.0.jar;lib\xmpbox-2.0.3.jar" com.takkaiah.poreader.ui.POReaderApp
+Args length:	1953/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+      "      :	lib\activation-1.1.jar
+      "      :	lib\antlr-2.7.7.jar
+      "      :	lib\avalon-framework-impl-4.2.0.jar
+      "      :	lib\barcode4j-2.0.jar
+      "      :	lib\batik-anim-1.8.jar
+      "      :	lib\batik-awt-util-1.8.jar
+      "      :	lib\batik-bridge-1.8.jar
+      "      :	lib\batik-css-1.8.jar
+      "      :	lib\batik-dom-1.8.jar
+      "      :	lib\batik-ext-1.8.jar
+      "      :	lib\batik-gvt-1.8.jar
+      "      :	lib\batik-parser-1.8.jar
+      "      :	lib\batik-script-1.8.jar
+      "      :	lib\batik-svg-dom-1.8.jar
+      "      :	lib\batik-util-1.8.jar
+      "      :	lib\batik-xml-1.8.jar
+      "      :	lib\bcmail-jdk14-1.38.jar
+      "      :	lib\bcmail-jdk14-138.jar
+      "      :	lib\bcprov-jdk14-1.38.jar
+      "      :	lib\bcprov-jdk14-138.jar
+      "      :	lib\bctsp-jdk14-1.38.jar
+      "      :	lib\classmate-1.3.0.jar
+      "      :	lib\commons-beanutils-1.9.0.jar
+      "      :	lib\commons-codec-1.10.jar
+      "      :	lib\commons-collections-3.2.2.jar
+      "      :	lib\commons-digester-2.1.jar
+      "      :	lib\commons-io-2.5.jar
+      "      :	lib\commons-lang3-3.1.jar
+      "      :	lib\commons-logging-1.2.jar
+      "      :	lib\core-2.3.0.jar
+      "      :	lib\dom4j-1.6.1.jar
+      "      :	lib\dynamicreports-core-4.1.1.jar
+      "      :	lib\ecj-4.3.1.jar
+      "      :	lib\fontbox-2.0.3.jar
+      "      :	lib\hibernate-commons-annotations-5.0.1.Final.jar
+      "      :	lib\hibernate-core-5.2.10.Final.jar
+      "      :	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+      "      :	lib\itext-2.1.7.jar
+      "      :	lib\jackson-annotations-2.1.4.jar
+      "      :	lib\jackson-core-2.1.4.jar
+      "      :	lib\jackson-databind-2.1.4.jar
+      "      :	lib\jandex-2.0.3.Final.jar
+      "      :	lib\jasperreports-6.2.2.jar
+      "      :	lib\javassist-3.20.0-GA.jar
+      "      :	lib\javax.mail-api-1.5.1.jar
+      "      :	lib\jboss-logging-3.3.0.Final.jar
+      "      :	lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+      "      :	lib\jcommon-1.0.23.jar
+      "      :	lib\jfontchooser-1.0.5.jar
+      "      :	lib\jfreechart-1.0.19.jar
+      "      :	lib\log4j-api-2.8.2.jar
+      "      :	lib\log4j-core-2.8.2.jar
+      "      :	lib\pdfbox-2.0.3.jar
+      "      :	lib\pdfbox-app-2.0.3.jar
+      "      :	lib\pdfbox-debugger-2.0.3.jar
+      "      :	lib\pdfbox-tools-2.0.3.jar
+      "      :	lib\poi-3.10.1.jar
+      "      :	lib\poi-ooxml-3.10.1.jar
+      "      :	lib\poi-ooxml-schemas-3.10.1.jar
+      "      :	lib\POReader.jar
+      "      :	lib\POReaderDB.jar
+      "      :	lib\POReaderUtil.jar
+      "      :	lib\postgresql-42.1.3.jar
+      "      :	lib\preflight-2.0.3.jar
+      "      :	lib\stax-api-1.0.1.jar
+      "      :	lib\xml-apis-1.3.04.jar
+      "      :	lib\xml-apis-ext-1.3.04.jar
+      "      :	lib\xmlbeans-2.6.0.jar
+      "      :	lib\xmpbox-2.0.3.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe;lib\activation-1.1.jar;lib\antlr-2.7.7.jar;lib\avalon-framework-impl-4.2.0.jar;lib\barcode4j-2.0.jar;lib\batik-anim-1.8.jar;lib\batik-awt-util-1.8.jar;lib\batik-bridge-1.8.jar;lib\batik-css-1.8.jar;lib\batik-dom-1.8.jar;lib\batik-ext-1.8.jar;lib\batik-gvt-1.8.jar;lib\batik-parser-1.8.jar;lib\batik-script-1.8.jar;lib\batik-svg-dom-1.8.jar;lib\batik-util-1.8.jar;lib\batik-xml-1.8.jar;lib\bcmail-jdk14-1.38.jar;lib\bcmail-jdk14-138.jar;lib\bcprov-jdk14-1.38.jar;lib\bcprov-jdk14-138.jar;lib\bctsp-jdk14-1.38.jar;lib\classmate-1.3.0.jar;lib\commons-beanutils-1.9.0.jar;lib\commons-codec-1.10.jar;lib\commons-collections-3.2.2.jar;lib\commons-digester-2.1.jar;lib\commons-io-2.5.jar;lib\commons-lang3-3.1.jar;lib\commons-logging-1.2.jar;lib\core-2.3.0.jar;lib\dom4j-1.6.1.jar;lib\dynamicreports-core-4.1.1.jar;lib\ecj-4.3.1.jar;lib\fontbox-2.0.3.jar;lib\hibernate-commons-annotations-5.0.1.Final.jar;lib\hibernate-core-5.2.10.Final.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\itext-2.1.7.jar;lib\jackson-annotations-2.1.4.jar;lib\jackson-core-2.1.4.jar;lib\jackson-databind-2.1.4.jar;lib\jandex-2.0.3.Final.jar;lib\jasperreports-6.2.2.jar;lib\javassist-3.20.0-GA.jar;lib\javax.mail-api-1.5.1.jar;lib\jboss-logging-3.3.0.Final.jar;lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;lib\jcommon-1.0.23.jar;lib\jfontchooser-1.0.5.jar;lib\jfreechart-1.0.19.jar;lib\log4j-api-2.8.2.jar;lib\log4j-core-2.8.2.jar;lib\pdfbox-2.0.3.jar;lib\pdfbox-app-2.0.3.jar;lib\pdfbox-debugger-2.0.3.jar;lib\pdfbox-tools-2.0.3.jar;lib\poi-3.10.1.jar;lib\poi-ooxml-3.10.1.jar;lib\poi-ooxml-schemas-3.10.1.jar;lib\POReader.jar;lib\POReaderDB.jar;lib\POReaderUtil.jar;lib\postgresql-42.1.3.jar;lib\preflight-2.0.3.jar;lib\stax-api-1.0.1.jar;lib\xml-apis-1.3.04.jar;lib\xml-apis-ext-1.3.04.jar;lib\xmlbeans-2.6.0.jar;lib\xmpbox-2.0.3.jar" com.takkaiah.poreader.ui.POReaderApp
+Args length:	1953/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+      "      :	lib\activation-1.1.jar
+      "      :	lib\antlr-2.7.7.jar
+      "      :	lib\avalon-framework-impl-4.2.0.jar
+      "      :	lib\barcode4j-2.0.jar
+      "      :	lib\batik-anim-1.8.jar
+      "      :	lib\batik-awt-util-1.8.jar
+      "      :	lib\batik-bridge-1.8.jar
+      "      :	lib\batik-css-1.8.jar
+      "      :	lib\batik-dom-1.8.jar
+      "      :	lib\batik-ext-1.8.jar
+      "      :	lib\batik-gvt-1.8.jar
+      "      :	lib\batik-parser-1.8.jar
+      "      :	lib\batik-script-1.8.jar
+      "      :	lib\batik-svg-dom-1.8.jar
+      "      :	lib\batik-util-1.8.jar
+      "      :	lib\batik-xml-1.8.jar
+      "      :	lib\bcmail-jdk14-1.38.jar
+      "      :	lib\bcmail-jdk14-138.jar
+      "      :	lib\bcprov-jdk14-1.38.jar
+      "      :	lib\bcprov-jdk14-138.jar
+      "      :	lib\bctsp-jdk14-1.38.jar
+      "      :	lib\classmate-1.3.0.jar
+      "      :	lib\commons-beanutils-1.9.0.jar
+      "      :	lib\commons-codec-1.10.jar
+      "      :	lib\commons-collections-3.2.2.jar
+      "      :	lib\commons-digester-2.1.jar
+      "      :	lib\commons-io-2.5.jar
+      "      :	lib\commons-lang3-3.1.jar
+      "      :	lib\commons-logging-1.2.jar
+      "      :	lib\core-2.3.0.jar
+      "      :	lib\dom4j-1.6.1.jar
+      "      :	lib\dynamicreports-core-4.1.1.jar
+      "      :	lib\ecj-4.3.1.jar
+      "      :	lib\fontbox-2.0.3.jar
+      "      :	lib\hibernate-commons-annotations-5.0.1.Final.jar
+      "      :	lib\hibernate-core-5.2.10.Final.jar
+      "      :	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+      "      :	lib\itext-2.1.7.jar
+      "      :	lib\jackson-annotations-2.1.4.jar
+      "      :	lib\jackson-core-2.1.4.jar
+      "      :	lib\jackson-databind-2.1.4.jar
+      "      :	lib\jandex-2.0.3.Final.jar
+      "      :	lib\jasperreports-6.2.2.jar
+      "      :	lib\javassist-3.20.0-GA.jar
+      "      :	lib\javax.mail-api-1.5.1.jar
+      "      :	lib\jboss-logging-3.3.0.Final.jar
+      "      :	lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+      "      :	lib\jcommon-1.0.23.jar
+      "      :	lib\jfontchooser-1.0.5.jar
+      "      :	lib\jfreechart-1.0.19.jar
+      "      :	lib\log4j-api-2.8.2.jar
+      "      :	lib\log4j-core-2.8.2.jar
+      "      :	lib\pdfbox-2.0.3.jar
+      "      :	lib\pdfbox-app-2.0.3.jar
+      "      :	lib\pdfbox-debugger-2.0.3.jar
+      "      :	lib\pdfbox-tools-2.0.3.jar
+      "      :	lib\poi-3.10.1.jar
+      "      :	lib\poi-ooxml-3.10.1.jar
+      "      :	lib\poi-ooxml-schemas-3.10.1.jar
+      "      :	lib\POReader.jar
+      "      :	lib\POReaderDB.jar
+      "      :	lib\POReaderUtil.jar
+      "      :	lib\postgresql-42.1.3.jar
+      "      :	lib\preflight-2.0.3.jar
+      "      :	lib\stax-api-1.0.1.jar
+      "      :	lib\xml-apis-1.3.04.jar
+      "      :	lib\xml-apis-ext-1.3.04.jar
+      "      :	lib\xmlbeans-2.6.0.jar
+      "      :	lib\xmpbox-2.0.3.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "setup\POReaderApp.jar;lib\activation-1.1.jar;lib\antlr-2.7.7.jar;lib\avalon-framework-impl-4.2.0.jar;lib\barcode4j-2.0.jar;lib\batik-anim-1.8.jar;lib\batik-awt-util-1.8.jar;lib\batik-bridge-1.8.jar;lib\batik-css-1.8.jar;lib\batik-dom-1.8.jar;lib\batik-ext-1.8.jar;lib\batik-gvt-1.8.jar;lib\batik-parser-1.8.jar;lib\batik-script-1.8.jar;lib\batik-svg-dom-1.8.jar;lib\batik-util-1.8.jar;lib\batik-xml-1.8.jar;lib\bcmail-jdk14-1.38.jar;lib\bcmail-jdk14-138.jar;lib\bcprov-jdk14-1.38.jar;lib\bcprov-jdk14-138.jar;lib\bctsp-jdk14-1.38.jar;lib\classmate-1.3.0.jar;lib\commons-beanutils-1.9.0.jar;lib\commons-codec-1.10.jar;lib\commons-collections-3.2.2.jar;lib\commons-digester-2.1.jar;lib\commons-io-2.5.jar;lib\commons-lang3-3.1.jar;lib\commons-logging-1.2.jar;lib\core-2.3.0.jar;lib\dom4j-1.6.1.jar;lib\dynamicreports-core-4.1.1.jar;lib\ecj-4.3.1.jar;lib\fontbox-2.0.3.jar;lib\hibernate-commons-annotations-5.0.1.Final.jar;lib\hibernate-core-5.2.10.Final.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\itext-2.1.7.jar;lib\jackson-annotations-2.1.4.jar;lib\jackson-core-2.1.4.jar;lib\jackson-databind-2.1.4.jar;lib\jandex-2.0.3.Final.jar;lib\jasperreports-6.2.2.jar;lib\javassist-3.20.0-GA.jar;lib\javax.mail-api-1.5.1.jar;lib\jboss-logging-3.3.0.Final.jar;lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;lib\jcommon-1.0.23.jar;lib\jfontchooser-1.0.5.jar;lib\jfreechart-1.0.19.jar;lib\log4j-api-2.8.2.jar;lib\log4j-core-2.8.2.jar;lib\pdfbox-2.0.3.jar;lib\pdfbox-app-2.0.3.jar;lib\pdfbox-debugger-2.0.3.jar;lib\pdfbox-tools-2.0.3.jar;lib\poi-3.10.1.jar;lib\poi-ooxml-3.10.1.jar;lib\poi-ooxml-schemas-3.10.1.jar;lib\POReader.jar;lib\POReaderDB.jar;lib\POReaderUtil.jar;lib\postgresql-42.1.3.jar;lib\preflight-2.0.3.jar;lib\stax-api-1.0.1.jar;lib\xml-apis-1.3.04.jar;lib\xml-apis-ext-1.3.04.jar;lib\xmlbeans-2.6.0.jar;lib\xmpbox-2.0.3.jar" com.takkaiah.poreader.ui.POReaderApp
+Args length:	1887/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe" com.takkaiah.poreader.ui.POReaderApp
+Args length:	137/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+      "      :	lib\activation-1.1.jar
+      "      :	lib\antlr-2.7.7.jar
+      "      :	lib\avalon-framework-impl-4.2.0.jar
+      "      :	lib\barcode4j-2.0.jar
+      "      :	lib\batik-anim-1.8.jar
+      "      :	lib\batik-awt-util-1.8.jar
+      "      :	lib\batik-bridge-1.8.jar
+      "      :	lib\batik-css-1.8.jar
+      "      :	lib\batik-dom-1.8.jar
+      "      :	lib\batik-ext-1.8.jar
+      "      :	lib\batik-gvt-1.8.jar
+      "      :	lib\batik-parser-1.8.jar
+      "      :	lib\batik-script-1.8.jar
+      "      :	lib\batik-svg-dom-1.8.jar
+      "      :	lib\batik-util-1.8.jar
+      "      :	lib\batik-xml-1.8.jar
+      "      :	lib\bcmail-jdk14-1.38.jar
+      "      :	lib\bcmail-jdk14-138.jar
+      "      :	lib\bcprov-jdk14-1.38.jar
+      "      :	lib\bcprov-jdk14-138.jar
+      "      :	lib\bctsp-jdk14-1.38.jar
+      "      :	lib\classmate-1.3.0.jar
+      "      :	lib\commons-beanutils-1.9.0.jar
+      "      :	lib\commons-codec-1.10.jar
+      "      :	lib\commons-collections-3.2.2.jar
+      "      :	lib\commons-digester-2.1.jar
+      "      :	lib\commons-io-2.5.jar
+      "      :	lib\commons-lang3-3.1.jar
+      "      :	lib\commons-logging-1.2.jar
+      "      :	lib\core-2.3.0.jar
+      "      :	lib\dom4j-1.6.1.jar
+      "      :	lib\dynamicreports-core-4.1.1.jar
+      "      :	lib\ecj-4.3.1.jar
+      "      :	lib\fontbox-2.0.3.jar
+      "      :	lib\hibernate-commons-annotations-5.0.1.Final.jar
+      "      :	lib\hibernate-core-5.2.10.Final.jar
+      "      :	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+      "      :	lib\itext-2.1.7.jar
+      "      :	lib\jackson-annotations-2.1.4.jar
+      "      :	lib\jackson-core-2.1.4.jar
+      "      :	lib\jackson-databind-2.1.4.jar
+      "      :	lib\jandex-2.0.3.Final.jar
+      "      :	lib\jasperreports-6.2.2.jar
+      "      :	lib\javassist-3.20.0-GA.jar
+      "      :	lib\javax.mail-api-1.5.1.jar
+      "      :	lib\jboss-logging-3.3.0.Final.jar
+      "      :	lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+      "      :	lib\jcommon-1.0.23.jar
+      "      :	lib\jfontchooser-1.0.5.jar
+      "      :	lib\jfreechart-1.0.19.jar
+      "      :	lib\log4j-api-2.8.2.jar
+      "      :	lib\log4j-core-2.8.2.jar
+      "      :	lib\pdfbox-2.0.3.jar
+      "      :	lib\pdfbox-app-2.0.3.jar
+      "      :	lib\pdfbox-debugger-2.0.3.jar
+      "      :	lib\pdfbox-tools-2.0.3.jar
+      "      :	lib\poi-3.10.1.jar
+      "      :	lib\poi-ooxml-3.10.1.jar
+      "      :	lib\poi-ooxml-schemas-3.10.1.jar
+      "      :	lib\POReader.jar
+      "      :	lib\POReaderDB.jar
+      "      :	lib\POReaderUtil.jar
+      "      :	lib\postgresql-42.1.3.jar
+      "      :	lib\preflight-2.0.3.jar
+      "      :	lib\stax-api-1.0.1.jar
+      "      :	lib\xml-apis-1.3.04.jar
+      "      :	lib\xml-apis-ext-1.3.04.jar
+      "      :	lib\xmlbeans-2.6.0.jar
+      "      :	lib\xmpbox-2.0.3.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe;lib\activation-1.1.jar;lib\antlr-2.7.7.jar;lib\avalon-framework-impl-4.2.0.jar;lib\barcode4j-2.0.jar;lib\batik-anim-1.8.jar;lib\batik-awt-util-1.8.jar;lib\batik-bridge-1.8.jar;lib\batik-css-1.8.jar;lib\batik-dom-1.8.jar;lib\batik-ext-1.8.jar;lib\batik-gvt-1.8.jar;lib\batik-parser-1.8.jar;lib\batik-script-1.8.jar;lib\batik-svg-dom-1.8.jar;lib\batik-util-1.8.jar;lib\batik-xml-1.8.jar;lib\bcmail-jdk14-1.38.jar;lib\bcmail-jdk14-138.jar;lib\bcprov-jdk14-1.38.jar;lib\bcprov-jdk14-138.jar;lib\bctsp-jdk14-1.38.jar;lib\classmate-1.3.0.jar;lib\commons-beanutils-1.9.0.jar;lib\commons-codec-1.10.jar;lib\commons-collections-3.2.2.jar;lib\commons-digester-2.1.jar;lib\commons-io-2.5.jar;lib\commons-lang3-3.1.jar;lib\commons-logging-1.2.jar;lib\core-2.3.0.jar;lib\dom4j-1.6.1.jar;lib\dynamicreports-core-4.1.1.jar;lib\ecj-4.3.1.jar;lib\fontbox-2.0.3.jar;lib\hibernate-commons-annotations-5.0.1.Final.jar;lib\hibernate-core-5.2.10.Final.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\itext-2.1.7.jar;lib\jackson-annotations-2.1.4.jar;lib\jackson-core-2.1.4.jar;lib\jackson-databind-2.1.4.jar;lib\jandex-2.0.3.Final.jar;lib\jasperreports-6.2.2.jar;lib\javassist-3.20.0-GA.jar;lib\javax.mail-api-1.5.1.jar;lib\jboss-logging-3.3.0.Final.jar;lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;lib\jcommon-1.0.23.jar;lib\jfontchooser-1.0.5.jar;lib\jfreechart-1.0.19.jar;lib\log4j-api-2.8.2.jar;lib\log4j-core-2.8.2.jar;lib\pdfbox-2.0.3.jar;lib\pdfbox-app-2.0.3.jar;lib\pdfbox-debugger-2.0.3.jar;lib\pdfbox-tools-2.0.3.jar;lib\poi-3.10.1.jar;lib\poi-ooxml-3.10.1.jar;lib\poi-ooxml-schemas-3.10.1.jar;lib\POReader.jar;lib\POReaderDB.jar;lib\POReaderUtil.jar;lib\postgresql-42.1.3.jar;lib\preflight-2.0.3.jar;lib\stax-api-1.0.1.jar;lib\xml-apis-1.3.04.jar;lib\xml-apis-ext-1.3.04.jar;lib\xmlbeans-2.6.0.jar;lib\xmpbox-2.0.3.jar" com.takkaiah.poreader.ui.POReaderApp
+Args length:	1953/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\.
+Java min ver:	1.7.0
+Java max ver:	1.8.9
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_45
+Check launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe (OK)
+Match:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_45
+Ignore:		1.8.0_045
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.8.0_045 (64-bit)
+Main class:	com.takkaiah.poreader.ui.POReaderApp
+Add classpath:	lib\*.jar
+      "      :	lib\activation-1.1.jar
+      "      :	lib\antlr-2.7.7.jar
+      "      :	lib\avalon-framework-impl-4.2.0.jar
+      "      :	lib\barcode4j-2.0.jar
+      "      :	lib\batik-anim-1.8.jar
+      "      :	lib\batik-awt-util-1.8.jar
+      "      :	lib\batik-bridge-1.8.jar
+      "      :	lib\batik-css-1.8.jar
+      "      :	lib\batik-dom-1.8.jar
+      "      :	lib\batik-ext-1.8.jar
+      "      :	lib\batik-gvt-1.8.jar
+      "      :	lib\batik-parser-1.8.jar
+      "      :	lib\batik-script-1.8.jar
+      "      :	lib\batik-svg-dom-1.8.jar
+      "      :	lib\batik-util-1.8.jar
+      "      :	lib\batik-xml-1.8.jar
+      "      :	lib\bcmail-jdk14-1.38.jar
+      "      :	lib\bcmail-jdk14-138.jar
+      "      :	lib\bcprov-jdk14-1.38.jar
+      "      :	lib\bcprov-jdk14-138.jar
+      "      :	lib\bctsp-jdk14-1.38.jar
+      "      :	lib\classmate-1.3.0.jar
+      "      :	lib\commons-beanutils-1.9.0.jar
+      "      :	lib\commons-codec-1.10.jar
+      "      :	lib\commons-collections-3.2.2.jar
+      "      :	lib\commons-digester-2.1.jar
+      "      :	lib\commons-io-2.5.jar
+      "      :	lib\commons-lang3-3.1.jar
+      "      :	lib\commons-logging-1.2.jar
+      "      :	lib\core-2.3.0.jar
+      "      :	lib\dom4j-1.6.1.jar
+      "      :	lib\dynamicreports-core-4.1.1.jar
+      "      :	lib\ecj-4.3.1.jar
+      "      :	lib\fontbox-2.0.3.jar
+      "      :	lib\hibernate-commons-annotations-5.0.1.Final.jar
+      "      :	lib\hibernate-core-5.2.10.Final.jar
+      "      :	lib\hibernate-jpa-2.1-api-1.0.0.Final.jar
+      "      :	lib\itext-2.1.7.jar
+      "      :	lib\jackson-annotations-2.1.4.jar
+      "      :	lib\jackson-core-2.1.4.jar
+      "      :	lib\jackson-databind-2.1.4.jar
+      "      :	lib\jandex-2.0.3.Final.jar
+      "      :	lib\jasperreports-6.2.2.jar
+      "      :	lib\javassist-3.20.0-GA.jar
+      "      :	lib\javax.mail-api-1.5.1.jar
+      "      :	lib\jboss-logging-3.3.0.Final.jar
+      "      :	lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar
+      "      :	lib\jcommon-1.0.23.jar
+      "      :	lib\jfontchooser-1.0.5.jar
+      "      :	lib\jfreechart-1.0.19.jar
+      "      :	lib\log4j-api-2.8.2.jar
+      "      :	lib\log4j-core-2.8.2.jar
+      "      :	lib\pdfbox-2.0.3.jar
+      "      :	lib\pdfbox-app-2.0.3.jar
+      "      :	lib\pdfbox-debugger-2.0.3.jar
+      "      :	lib\pdfbox-tools-2.0.3.jar
+      "      :	lib\poi-3.10.1.jar
+      "      :	lib\poi-ooxml-3.10.1.jar
+      "      :	lib\poi-ooxml-schemas-3.10.1.jar
+      "      :	lib\POReader.jar
+      "      :	lib\POReaderDB.jar
+      "      :	lib\POReaderUtil.jar
+      "      :	lib\postgresql-42.1.3.jar
+      "      :	lib\preflight-2.0.3.jar
+      "      :	lib\stax-api-1.0.1.jar
+      "      :	lib\xml-apis-1.3.04.jar
+      "      :	lib\xml-apis-ext-1.3.04.jar
+      "      :	lib\xmlbeans-2.6.0.jar
+      "      :	lib\xmpbox-2.0.3.jar
+Launcher:	C:\Program Files\Java\jdk1.8.0_45\jre\bin\javaw.exe
+Launcher args:	-classpath "E:\Venu\Ganesh\POReader_Eclipse_WS\POReaderApplication\Setup_Info\setup\POReaderApp.exe;lib\activation-1.1.jar;lib\antlr-2.7.7.jar;lib\avalon-framework-impl-4.2.0.jar;lib\barcode4j-2.0.jar;lib\batik-anim-1.8.jar;lib\batik-awt-util-1.8.jar;lib\batik-bridge-1.8.jar;lib\batik-css-1.8.jar;lib\batik-dom-1.8.jar;lib\batik-ext-1.8.jar;lib\batik-gvt-1.8.jar;lib\batik-parser-1.8.jar;lib\batik-script-1.8.jar;lib\batik-svg-dom-1.8.jar;lib\batik-util-1.8.jar;lib\batik-xml-1.8.jar;lib\bcmail-jdk14-1.38.jar;lib\bcmail-jdk14-138.jar;lib\bcprov-jdk14-1.38.jar;lib\bcprov-jdk14-138.jar;lib\bctsp-jdk14-1.38.jar;lib\classmate-1.3.0.jar;lib\commons-beanutils-1.9.0.jar;lib\commons-codec-1.10.jar;lib\commons-collections-3.2.2.jar;lib\commons-digester-2.1.jar;lib\commons-io-2.5.jar;lib\commons-lang3-3.1.jar;lib\commons-logging-1.2.jar;lib\core-2.3.0.jar;lib\dom4j-1.6.1.jar;lib\dynamicreports-core-4.1.1.jar;lib\ecj-4.3.1.jar;lib\fontbox-2.0.3.jar;lib\hibernate-commons-annotations-5.0.1.Final.jar;lib\hibernate-core-5.2.10.Final.jar;lib\hibernate-jpa-2.1-api-1.0.0.Final.jar;lib\itext-2.1.7.jar;lib\jackson-annotations-2.1.4.jar;lib\jackson-core-2.1.4.jar;lib\jackson-databind-2.1.4.jar;lib\jandex-2.0.3.Final.jar;lib\jasperreports-6.2.2.jar;lib\javassist-3.20.0-GA.jar;lib\javax.mail-api-1.5.1.jar;lib\jboss-logging-3.3.0.Final.jar;lib\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;lib\jcommon-1.0.23.jar;lib\jfontchooser-1.0.5.jar;lib\jfreechart-1.0.19.jar;lib\log4j-api-2.8.2.jar;lib\log4j-core-2.8.2.jar;lib\pdfbox-2.0.3.jar;lib\pdfbox-app-2.0.3.jar;lib\pdfbox-debugger-2.0.3.jar;lib\pdfbox-tools-2.0.3.jar;lib\poi-3.10.1.jar;lib\poi-ooxml-3.10.1.jar;lib\poi-ooxml-schemas-3.10.1.jar;lib\POReader.jar;lib\POReaderDB.jar;lib\POReaderUtil.jar;lib\postgresql-42.1.3.jar;lib\preflight-2.0.3.jar;lib\stax-api-1.0.1.jar;lib\xml-apis-1.3.04.jar;lib\xml-apis-ext-1.3.04.jar;lib\xmlbeans-2.6.0.jar;lib\xmpbox-2.0.3.jar" com.takkaiah.poreader.ui.POReaderApp
+Args length:	1953/32768 chars
+Exit code:	0

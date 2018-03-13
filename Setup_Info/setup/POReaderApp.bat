@@ -1,0 +1,1 @@
+java -cp POReaderApp.jar;lib/* com.takkaiah.poreader.ui.POReaderApp

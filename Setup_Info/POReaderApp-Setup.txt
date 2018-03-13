@@ -1,0 +1,53 @@
+Installation
+-----------
+
+Application Setup
+
+1. Install JDK 1.8 
+2. Install Eclipse Oxygen
+3. Install Maven 
+4. Install Gradle 3.5 version
+
+
+For Creating the Setup file
+
+1. Install Java Launch4J into system
+  -- http://launch4j.sourceforge.net/
+2. Install Inno Setup into system
+  -- http://www.jrsoftware.org/isinfo.php
+
+
+Generating the setup 
+
+1. Build the PORA Application 
+   - gradle build
+
+2. Copy the POReaderApp.jar and POReaderUtil.jar into setup folder
+
+3. Copy the library files from POReaderApp\build\dependentlib to setup\lib 
+    copy build\depdendentlib\*.jar setup\lib
+
+Create an jar exe from Launch4J 
+1. Open the Launch4J, file open PORALaunch4j.xml
+2. Compile to create a PORAReaderApp.exe
+
+Create a Pora Appliation Setup 
+1. Open Inno Setup application 
+2. Open the POReaderApp.iss file
+3. compile to create the setup exe
+
+
+
+Postgresql download
+------------------
+
+http://www.enterprisedb.com/products-services-training/pgdownload#windows
+
+
+JRE Download
+--------------
+
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+
+
