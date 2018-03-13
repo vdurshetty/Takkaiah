@@ -1,0 +1,4 @@
+include ':POReaderUtil',':POReader',':POReaderDB'
+project(':POReaderUtil').projectDir = new File(settingsDir, '../POReaderUtil')
+project(':POReader').projectDir = new File(settingsDir, '../POReader')
+project(':POReaderDB').projectDir = new File(settingsDir, '../POReaderDB')

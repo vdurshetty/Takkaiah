@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: Venugopal Durshetty
+Main-Class: com.takkaiah.poreader.ui.POReaderApp
+Class-Path: lib/*.jar
+
+
