@@ -1,0 +1,4 @@
+#Mon Oct 02 19:28:10 AEDT 2017
+connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+eclipse.preferences.version=1
+connection.project.dir=../POReaderApp
